@@ -1,4 +1,3 @@
-
 # Implement URL Shortener like bit.ly
 
 ## Problem Statement
@@ -40,3 +39,7 @@
   table, by capturing the time of the access.
 - If a URL has been accessed 10 times throughout the day, there should be 10 entries in the url_access_log table for
   that URL for that day with the timestamp of the access.
+
+## H2-Console link
+
+  http://localhost:8080/shorten-url/api/v1//h2-console
